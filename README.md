@@ -36,7 +36,17 @@ The smart module is:
 ✔ Live testing module using `det.py`
 
 ---
+# Key Features
 
+## Real-Time Scene Understanding
+
+Examples:
+
+- "A person is standing near a bicycle."
+- "A chair is placed beside a table."
+- "A vehicle is approaching from the left."
+
+---
 # Repository Structure
 
 ```text
@@ -92,33 +102,39 @@ User Feedback
 
 # System Block Diagram
 
-<img width="1037" height="499" alt="image" src="https://github.com/user-attachments/assets/f7dacd55-4be7-4871-b8e7-aa30aec6ac97" />
+<img width="1037" height="499" alt="image" src="https://github.com/user-attachments/assets/59e9b677-e8f1-41ac-ae8c-5ef5222ef303" />
+
 
 
 ---
 
 # Circuit Diagram
 
-<img width="803" height="661" alt="image" src="https://github.com/user-attachments/assets/d8847c87-332f-46e1-af06-a9b4ef27aa8e" />
+<img width="803" height="661" alt="image" src="https://github.com/user-attachments/assets/cb942c4e-fd1f-40b9-91fe-6bde1aa71dff" />
+
 
 
 ---
 
 # CAD Design
 
-<img width="535" height="257" alt="image" src="https://github.com/user-attachments/assets/7e7e6150-3ac4-4c2f-a886-2309d00d71c9" />
-<img width="370" height="245" alt="image" src="https://github.com/user-attachments/assets/06679c55-642f-476b-b571-e0dfa91598c6" />
+<img width="535" height="257" alt="image" src="https://github.com/user-attachments/assets/796266f7-8147-43b8-bdff-726d1e0cad40" />
+
+<img width="370" height="245" alt="image" src="https://github.com/user-attachments/assets/63a9e5eb-a51e-4d8a-896c-fb4ff1ff58e2" />
+
 
 ---
 
 # PCB Assembly
 
-<img width="459" height="360" alt="image" src="https://github.com/user-attachments/assets/e6c2957a-7583-4281-98f6-9b81c16cacf7" />
+ <img width="459" height="360" alt="image" src="https://github.com/user-attachments/assets/23bf2209-67c5-49f2-a4b5-d798165aba1d" />
+
 ---
 
 # Enclosure Design
 
-<img width="449" height="287" alt="image" src="https://github.com/user-attachments/assets/057cd9e6-8ca4-4702-988d-2795ed16dcb4" />
+<img width="409" height="289" alt="image" src="https://github.com/user-attachments/assets/3078aa24-f875-4b3a-b4e5-5638814976a1" />
+
 
 
 ---
@@ -126,9 +142,10 @@ User Feedback
 # Final Prototype
 
 
-<img width="831" height="623" alt="image" src="https://github.com/user-attachments/assets/9a7c6df1-26a0-4d3c-bfa6-338af9db5893" />
+<img width="831" height="623" alt="image" src="https://github.com/user-attachments/assets/b642a4ab-65e7-45d0-a539-506b44722485" />
 
-<img width="833" height="625" alt="image" src="https://github.com/user-attachments/assets/d7a573bd-3bcd-4de5-a9e6-48aaea1fcd7f" />
+<img width="833" height="625" alt="image" src="https://github.com/user-attachments/assets/0d10ac1b-53aa-409a-8503-5b34b9e8b4fa" />
+
 
 
 ---
