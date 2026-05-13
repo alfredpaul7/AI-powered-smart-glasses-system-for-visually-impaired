@@ -114,7 +114,6 @@ User Feedback
 # PCB Assembly
 
 <img width="459" height="360" alt="image" src="https://github.com/user-attachments/assets/e6c2957a-7583-4281-98f6-9b81c16cacf7" />
-
 ---
 
 # Enclosure Design
